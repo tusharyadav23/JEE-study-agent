@@ -1,0 +1,45 @@
+Physics Formulas for JEE
+
+Kinematics
+
+Equations of motion for constant acceleration: v = u + at, s = ut + (1/2)at^2, and v^2 = u^2 + 2as. Here u is initial velocity, v is final velocity, a is acceleration, t is time and s is displacement.
+
+Projectile Motion
+
+For a projectile launched with speed u at angle theta: time of flight T = 2u sin(theta) / g, maximum height H = u^2 sin^2(theta) / (2g), and horizontal range R = u^2 sin(2 theta) / g. The range is maximum when theta = 45 degrees.
+
+Newton's Laws and Friction
+
+Newton's second law: F = ma. Momentum p = mv. Force of friction: f = mu N, where mu is the coefficient of friction and N is the normal reaction.
+
+Work, Energy and Power
+
+Work W = F d cos(theta). Kinetic energy KE = (1/2) m v^2. Gravitational potential energy PE = m g h. The work-energy theorem states that net work done equals the change in kinetic energy. Power P = W / t = F v.
+
+Circular Motion and Gravitation
+
+Centripetal acceleration a = v^2 / r = omega^2 r. Centripetal force F = m v^2 / r. Newton's law of gravitation: F = G m1 m2 / r^2. Escape velocity from Earth's surface v = sqrt(2 g R), approximately 11.2 km/s. Orbital velocity near the surface is sqrt(g R), approximately 7.9 km/s.
+
+Simple Harmonic Motion
+
+Time period of a spring-mass system: T = 2 pi sqrt(m / k). Time period of a simple pendulum: T = 2 pi sqrt(L / g). In SHM, acceleration is proportional to displacement and directed towards the mean position: a = -omega^2 x.
+
+Fluids
+
+Pressure P = F / A. Pressure at depth h in a fluid: P = P0 + rho g h. Bernoulli's equation: P + (1/2) rho v^2 + rho g h = constant. Archimedes' principle: the buoyant force equals the weight of the fluid displaced.
+
+Electrostatics and Current Electricity
+
+Coulomb's law: F = k q1 q2 / r^2, where k = 9 x 10^9 N m^2 / C^2. Electric field E = F / q. Capacitance C = Q / V. Ohm's law: V = I R. Power dissipated in a resistor P = I^2 R = V^2 / R. Resistances in series add: R = R1 + R2. For parallel resistances, 1/R = 1/R1 + 1/R2.
+
+Magnetism
+
+Force on a charge moving in a magnetic field: F = q v B sin(theta). Force on a current-carrying conductor: F = B I L sin(theta). Faraday's law of induction: emf = -d(phi)/dt.
+
+Optics
+
+Mirror formula: 1/v + 1/u = 1/f. Lens formula: 1/v - 1/u = 1/f. Snell's law: n1 sin(i) = n2 sin(r). In Young's double slit experiment, fringe width beta = lambda D / d.
+
+Modern Physics
+
+Energy of a photon E = h f = h c / lambda. Einstein's photoelectric equation: KE max = h f - phi, where phi is the work function. De Broglie wavelength lambda = h / (m v).

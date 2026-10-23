@@ -1,0 +1,37 @@
+Chemistry Notes for JEE
+
+Physical Chemistry: Mole Concept
+
+One mole contains 6.022 x 10^23 particles (Avogadro's number). Number of moles n = given mass / molar mass. Molarity is moles of solute per litre of solution. Molality is moles of solute per kilogram of solvent.
+
+Ideal Gas Equation
+
+PV = nRT, where R = 8.314 J / (mol K) or 0.0821 L atm / (mol K). At STP, one mole of an ideal gas occupies 22.4 litres (at 0 degrees C and 1 atm).
+
+Chemical Equilibrium
+
+Le Chatelier's principle: if a system at equilibrium is disturbed, it shifts to oppose the change. The equilibrium constant Kc is the ratio of product concentrations to reactant concentrations, each raised to the power of its coefficient. Relation: Kp = Kc (RT)^(delta n).
+
+Acids, Bases and pH
+
+pH = -log[H+]. pOH = -log[OH-]. At 25 degrees C, pH + pOH = 14 and Kw = 10^-14. A buffer solution resists change in pH; the Henderson-Hasselbalch equation is pH = pKa + log([salt]/[acid]).
+
+Thermodynamics
+
+First law: delta U = q + w. Enthalpy H = U + PV. Gibbs free energy delta G = delta H - T delta S. A reaction is spontaneous when delta G is negative.
+
+Chemical Kinetics
+
+For a first-order reaction, rate = k[A], the half-life is t1/2 = 0.693 / k. Arrhenius equation: k = A e^(-Ea / RT).
+
+Inorganic Chemistry: Periodic Trends
+
+Across a period from left to right, atomic radius decreases, ionisation energy generally increases and electronegativity increases. Down a group, atomic radius increases and ionisation energy decreases. Fluorine is the most electronegative element.
+
+Chemical Bonding
+
+Hybridisation: sp is linear (180 degrees, example BeCl2), sp2 is trigonal planar (120 degrees, example BF3), sp3 is tetrahedral (109.5 degrees, example CH4). VSEPR theory predicts molecular shape from electron pair repulsion.
+
+Organic Chemistry
+
+Markovnikov's rule: in the addition of HX to an unsymmetrical alkene, the hydrogen attaches to the carbon with more hydrogens, and the halide attaches to the carbon with fewer hydrogens. SN1 reactions are two-step, favoured by tertiary substrates and polar protic solvents, and give racemisation. SN2 reactions are single-step, favoured by primary substrates and polar aprotic solvents, and cause inversion of configuration. Carbocation stability order: tertiary > secondary > primary > methyl.

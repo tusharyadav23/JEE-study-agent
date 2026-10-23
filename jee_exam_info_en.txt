@@ -1,0 +1,33 @@
+JEE Main Overview
+
+JEE Main (Joint Entrance Examination Main) is conducted by the National Testing Agency (NTA). It is the entrance exam for admission to NITs, IIITs and other centrally funded technical institutions, and it is also the qualifying exam for JEE Advanced.
+
+JEE Main Paper 1 is for B.E./B.Tech admission. Paper 2A is for B.Arch and Paper 2B is for B.Planning.
+
+JEE Main Paper 1 Pattern
+
+Paper 1 is a computer-based test of 3 hours. It has three sections: Physics, Chemistry and Mathematics. Each subject has 25 questions: 20 multiple-choice questions (MCQ) and 5 numerical value questions. In total there are 75 questions for 300 marks.
+
+JEE Main Marking Scheme
+
+For every correct answer, 4 marks are awarded. For every wrong MCQ answer, 1 mark is deducted (negative marking of -1). Unanswered questions carry no marks. Numerical value questions have their own answer type where the student enters a number.
+
+JEE Main Sessions
+
+JEE Main is usually conducted in two sessions in a year: January and April. A candidate can appear in both sessions and the best NTA score is considered for the rank.
+
+JEE Advanced Overview
+
+JEE Advanced is the entrance exam for admission to the Indian Institutes of Technology (IITs). It is organised by one of the IITs on a rotating basis each year. It has two papers, Paper 1 and Paper 2, and both papers are compulsory. Each paper is 3 hours long.
+
+JEE Advanced Eligibility
+
+Only the top 2.5 lakh (250,000) candidates among those who qualify in JEE Main Paper 1 are eligible to appear in JEE Advanced. A candidate can attempt JEE Advanced a maximum of two times in two consecutive years. The marking scheme and question types of JEE Advanced can change every year, so always read the official information brochure.
+
+Admission Counselling
+
+After the results, seats are allotted through JoSAA (Joint Seat Allocation Authority) counselling. JoSAA covers IITs, NITs, IIITs and GFTIs. IITs admit students based on JEE Advanced rank, while NITs, IIITs and GFTIs admit students based on JEE Main rank.
+
+Official Sources
+
+Always verify the latest dates, syllabus and pattern on the official websites: jeemain.nta.nic.in for JEE Main and jeeadv.ac.in for JEE Advanced, because details can change from year to year.

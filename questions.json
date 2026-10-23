@@ -1,0 +1,188 @@
+[
+  {
+    "question": "What is the marking scheme of JEE Main?",
+    "expected_keywords": [
+      "4 marks",
+      "negative"
+    ]
+  },
+  {
+    "question": "How many questions are there in JEE Main Paper 1?",
+    "expected_keywords": [
+      "75 questions"
+    ]
+  },
+  {
+    "question": "Who conducts JEE Main?",
+    "expected_keywords": [
+      "National Testing Agency"
+    ]
+  },
+  {
+    "question": "Who is eligible to appear in JEE Advanced?",
+    "expected_keywords": [
+      "2.5 lakh"
+    ]
+  },
+  {
+    "question": "How many times can a candidate attempt JEE Advanced?",
+    "expected_keywords": [
+      "two times",
+      "maximum of two"
+    ]
+  },
+  {
+    "question": "What is JoSAA counselling?",
+    "expected_keywords": [
+      "JoSAA"
+    ]
+  },
+  {
+    "question": "JEE Main में नेगेटिव मार्किंग कितनी है?",
+    "expected_keywords": [
+      "नेगेटिव मार्किंग",
+      "1 अंक काटा"
+    ]
+  },
+  {
+    "question": "JEE Main पेपर 1 का पैटर्न क्या है?",
+    "expected_keywords": [
+      "75 प्रश्न",
+      "300 अंक"
+    ]
+  },
+  {
+    "question": "JEE Advanced के लिए कौन पात्र है?",
+    "expected_keywords": [
+      "2.5 लाख"
+    ]
+  },
+  {
+    "question": "What is the range of a projectile?",
+    "expected_keywords": [
+      "sin(2 theta)",
+      "range"
+    ]
+  },
+  {
+    "question": "What is the time period of a simple pendulum?",
+    "expected_keywords": [
+      "sqrt(L / g)"
+    ]
+  },
+  {
+    "question": "State the lens formula.",
+    "expected_keywords": [
+      "1/v - 1/u = 1/f"
+    ]
+  },
+  {
+    "question": "What is the escape velocity from Earth?",
+    "expected_keywords": [
+      "11.2"
+    ]
+  },
+  {
+    "question": "State Bernoulli's equation.",
+    "expected_keywords": [
+      "Bernoulli"
+    ]
+  },
+  {
+    "question": "सरल लोलक का आवर्तकाल क्या होता है?",
+    "expected_keywords": [
+      "sqrt(L / g)",
+      "लोलक"
+    ]
+  },
+  {
+    "question": "What is the ideal gas equation?",
+    "expected_keywords": [
+      "PV = nRT"
+    ]
+  },
+  {
+    "question": "What is the formula for pH?",
+    "expected_keywords": [
+      "-log[H+]"
+    ]
+  },
+  {
+    "question": "What is Markovnikov's rule?",
+    "expected_keywords": [
+      "Markovnikov"
+    ]
+  },
+  {
+    "question": "Difference between SN1 and SN2 reactions?",
+    "expected_keywords": [
+      "SN1",
+      "SN2"
+    ]
+  },
+  {
+    "question": "Which element is the most electronegative?",
+    "expected_keywords": [
+      "Fluorine"
+    ]
+  },
+  {
+    "question": "संकरण sp3 में बंध कोण कितना होता है?",
+    "expected_keywords": [
+      "109.5"
+    ]
+  },
+  {
+    "question": "What is the quadratic formula?",
+    "expected_keywords": [
+      "sqrt(b^2 - 4ac)"
+    ]
+  },
+  {
+    "question": "What is the sum of an infinite geometric series?",
+    "expected_keywords": [
+      "a/(1 - r)"
+    ]
+  },
+  {
+    "question": "What is the determinant of a 2x2 matrix?",
+    "expected_keywords": [
+      "ad - bc"
+    ]
+  },
+  {
+    "question": "द्विघात समीकरण के मूल कैसे निकालें?",
+    "expected_keywords": [
+      "विविक्तकर",
+      "मूल"
+    ]
+  },
+  {
+    "question": "How should I use NCERT for JEE preparation?",
+    "expected_keywords": [
+      "NCERT"
+    ]
+  },
+  {
+    "question": "How should I analyse mock tests?",
+    "expected_keywords": [
+      "error log",
+      "mock"
+    ]
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2018?",
+    "expected_keywords": [],
+    "out_of_scope": true
+  },
+  {
+    "question": "What is a good recipe for butter chicken?",
+    "expected_keywords": [],
+    "out_of_scope": true
+  },
+  {
+    "question": "आज दिल्ली का मौसम कैसा है?",
+    "expected_keywords": [],
+    "out_of_scope": true
+  }
+]

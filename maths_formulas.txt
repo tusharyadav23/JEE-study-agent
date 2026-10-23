@@ -1,0 +1,37 @@
+Mathematics Formulas for JEE
+
+Quadratic Equations
+
+For ax^2 + bx + c = 0, the roots are x = (-b +/- sqrt(b^2 - 4ac)) / (2a). The discriminant D = b^2 - 4ac. If D > 0 the roots are real and distinct, if D = 0 the roots are real and equal, and if D < 0 the roots are complex. Sum of roots = -b/a and product of roots = c/a.
+
+Sequences and Series
+
+Arithmetic progression: nth term = a + (n-1)d, and sum of n terms = (n/2)(2a + (n-1)d). Geometric progression: nth term = a r^(n-1), sum of n terms = a(r^n - 1)/(r - 1), and sum to infinity = a/(1 - r) for |r| < 1.
+
+Binomial Theorem
+
+(a + b)^n = sum of nC_r a^(n-r) b^r. The general term is T(r+1) = nC_r a^(n-r) b^r. nC_r = n! / (r! (n-r)!).
+
+Trigonometry
+
+sin^2(x) + cos^2(x) = 1. sin(2x) = 2 sin(x) cos(x). cos(2x) = cos^2(x) - sin^2(x) = 1 - 2 sin^2(x). sin(A + B) = sin A cos B + cos A sin B. tan(A + B) = (tan A + tan B) / (1 - tan A tan B).
+
+Coordinate Geometry
+
+Distance between two points = sqrt((x2 - x1)^2 + (y2 - y1)^2). Slope of a line m = (y2 - y1)/(x2 - x1). Equation of a circle with centre (h, k) and radius r: (x - h)^2 + (y - k)^2 = r^2. Parabola y^2 = 4ax has focus (a, 0). Eccentricity of an ellipse is less than 1, of a parabola equals 1, and of a hyperbola is greater than 1.
+
+Differentiation
+
+d/dx (x^n) = n x^(n-1). d/dx (sin x) = cos x. d/dx (cos x) = -sin x. d/dx (e^x) = e^x. d/dx (ln x) = 1/x. Product rule: (uv)' = u'v + uv'. Chain rule: d/dx f(g(x)) = f'(g(x)) g'(x).
+
+Integration
+
+Integral of x^n dx = x^(n+1)/(n+1) + C for n not equal to -1. Integral of 1/x dx = ln|x| + C. Integral of e^x dx = e^x + C. Integral of sin x dx = -cos x + C. Integration by parts: integral of u dv = uv - integral of v du.
+
+Matrices and Determinants
+
+The determinant of a 2x2 matrix [[a, b], [c, d]] is ad - bc. A matrix is invertible only if its determinant is non-zero. The inverse is A^-1 = adj(A) / det(A).
+
+Probability
+
+P(A) = favourable outcomes / total outcomes. P(A or B) = P(A) + P(B) - P(A and B). Conditional probability P(A|B) = P(A and B) / P(B). Bayes' theorem: P(A|B) = P(B|A) P(A) / P(B).
